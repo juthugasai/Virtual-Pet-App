@@ -9,6 +9,6 @@ _Create you own virtual pet to feed, walk and keep alive all in your terminal_
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ git clone - add the repo address here
+$ git clone git@github.com:EmSayle/Virtual-Pet-App.git
 $ more info
 ```
