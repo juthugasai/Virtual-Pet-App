@@ -10,12 +10,12 @@ Install the dependencies and devDependencies and start the server.
 
 ```sh
 $ git clone git@github.com:EmSayle/Virtual-Pet-App.git
-$ run $node in your terminal
-$ require with const Pet = require('../src/pet');
-$ create new pet with 
-$ -> pet = new Pet('Colin');
+$ run $node
+$ const Pet = require('../src/pet');
+$ pet = new Pet('**insert your pet name here**');
 ```
-# Pet Life
+
+# Pet actions
 
 ```sh
 $ pet.growUp() - ages your pet by 1 years, increases hunger by 4 and decreases fitness by 3
