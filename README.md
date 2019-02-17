@@ -1,4 +1,4 @@
-# Virtual Pet App
+# Virtual Pet App :dog: :cat: :hamster: :rabbit:
 
   - a node application using JavaScript
 
